@@ -1,0 +1,13 @@
+node_modules/
+.idea/
+platforms/
+plugins/
+www/*
+!.gitkeep
+test/coverage/
+test/report/
+npm-debug.log
+package-lock.json
+config.xml
+google-services.json
+GoogleService-Info.plist
